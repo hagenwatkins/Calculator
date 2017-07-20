@@ -1,0 +1,83 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto
+
+}
+
+.container > div {
+  height: 100px;
+  width: 100px;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  line-height: 100px;
+  color: white;
+  font-size: 4em;
+  text-align: center;
+  font-family:fantasy ;
+}
+.container > div:hover{
+  background-color: #82C276;
+  cursor: pointer;
+}
+div.wide {
+  width: 301px;
+
+}
+.one{
+  background-color: #61B34F;
+}
+.two{
+  background-color: #61B34F;
+
+}
+.three{
+  background-color: #61B34F;
+}
+.four{
+  background-color: #61B34F;
+}
+.five{
+  background-color: #61B34F;
+}
+.six{
+  background-color: #82C276;
+}
+.seven{
+  background-color: #61B34F;
+}
+.eight{
+  background-color: #61B34F;
+}
+.nine {
+  background-color: #61B34F;
+}
+.zero {
+  background-color: #82C276;
+}
+.clear {
+  background-color: #61B34F;
+}
+.plus {
+  background-color: #61B34F;
+}
+.subtract {
+  background-color: #61B34F;
+}
+.multiply {
+  background-color: #82C276;
+}
+.divide {
+  background-color: #61B34F;
+}
+.period {
+  background-color: #61B34F;
+}
+.equal {
+  background-color: #61B34F;
+}
+.screen {
+  background-color: #82C276;
+}
